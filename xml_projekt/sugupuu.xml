@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<inimene synd="1926">
+  <nimi>Elizabeth II</nimi>
+  <synniaasta>1926</synniaasta>
+  <lapsed>
+    <inimene synd="1950">
+      <nimi>Anne, Princess Royal</nimi>
+      <synniaasta>1950</synniaasta>
+    </inimene>
+    <inimene synd="1948">
+      <nimi>Charles, Prince of Wales</nimi>
+      <synniaasta>1948</synniaasta>
+        <lapsed>
+          <inimene synd="1982">
+            <nimi>William</nimi>
+            <synniaasta>1982</synniaasta>
+              <lapsed>
+                <inimene synd="2013">
+                  <nimi>George</nimi>
+                  <synniaasta>2013</synniaasta>
+                </inimene>
+              </lapsed>
+              <lapsed>
+                <inimene synd="2015">
+                  <nimi>Charlotte</nimi>
+                  <synniaasta>2015</synniaasta>
+                </inimene>
+              </lapsed>
+              <lapsed>
+                <inimene synd="2018">
+                  <nimi>Louis</nimi>
+                  <synniaasta>2018</synniaasta>
+                </inimene>
+              </lapsed>
+          </inimene>
+          <inimene synd="1985">
+            <nimi>Harry</nimi>
+            <synniaasta>1985</synniaasta>
+            <lapsed>
+              <inimene>
+                <nimi>test</nimi>
+                <synniaasta>2021</synniaasta>
+              </inimene>
+            </lapsed>
+          </inimene>
+        </lapsed>
+    </inimene>
+    <inimene synd="1960">
+      <nimi>Andrew, Duke of York</nimi>
+      <synniaasta>1960</synniaasta>
+    </inimene>
+    <inimene synd="1964">
+      <nimi>Edward, Earl of Wessex</nimi>
+      <synniaasta>1964</synniaasta>
+      <lapsed>
+        <inimene synd="1964">
+          <nimi>Windsor</nimi>
+          <synniaasta>2003</synniaasta>
+        </inimene>
+      </lapsed>
+      <lapsed>
+        <inimene synd="2007">
+          <nimi>James</nimi>
+          <synniaasta>2007</synniaasta>
+        </inimene>
+      </lapsed>
+    </inimene>
+  </lapsed>
+  
+</inimene>
